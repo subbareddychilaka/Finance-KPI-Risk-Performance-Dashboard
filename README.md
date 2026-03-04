@@ -1,4 +1,4 @@
-📊 Finance KPI & Risk Performance Dashboard (Power BI)
+📊 Finance KPI & Risk Performance Dashboard (Power BI) 
 📌 Project Overview
 This Business Intelligence project focuses on monitoring key financial KPIs and risk indicators through interactive dashboards built in Power BI.
 
